@@ -3,6 +3,9 @@
 ## Multi-class classification
 - [ ] Add single label multi-class classification 
 
+## Hyperparameter tuning
+- [ ] Add grid search method for hyperparameter optimization
+
 ## Cross validation
 - [ ] Add k-fold cross validation 
 - [ ] Add nested cross validation
@@ -29,3 +32,7 @@
 - [ ] Implement `remove_redundant_columns::Bool` option when training GLM models
 - [ ] Add `get_redundant_columns(m::AbstractMatrix)` function
 - [ ] Implement `allowrankdeficient::Bool` option when training GLM models
+
+## Plots
+- [ ] Allow user to specify `xmin`, `xmax`, `ymin`, `ymax` when making plots
+
