@@ -8,3 +8,5 @@ src="https://zenodo.org/badge/109460252.svg"/>
 </p>
 
 See [`wishlist.md`](wishlist.md) for a list of features that we would like to implement.
+
+See [`optional_dependencies.md`](optional_dependencies.md) for a list of dependencies that are currently required but that we plan on converting into optional dependencies.
